@@ -1,0 +1,312 @@
+,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Protein change,GLU A3 F412 I1 R1,GLU A4 F403 I1 R1,GLU A5 F150 I1 R1,GLU A6 F406 I1 R1,GLU A7 F422 I51 R1,GLU A8 F380 I1 R1,GLU A9 F433 I1 R1,GLU A10 F418 I1 R1
+0,"6,809",SNP,T→G,yaaJ,,putative transporter,,,K384T (AAA→ACA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,"15,441",DUP,"1,258 bp x3.1",insL1,,,,,Duplication,1.0,,,,,,,
+2,"20,136",DUP,377 bp x3.4,"[insB1], insA",,,,,Duplication,,1.0,,,,,,
+3,"20,143",DUP,370 bp x2.8,"[insB1], insA",,,,,Duplication,,,,,,1.0,,
+4,"20,156",DUP,393 bp x3.4,"[insB1], insA",,,,,Duplication,,,,,,,1.0,
+5,"25,474",SNP,T→G,lspA,,prolipoprotein signal peptidase (signal peptidase II),,,S90A (TCG→GCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+6,"76,539",SNP,T→G,sgrR,,transcriptional DNA-binding transcriptional activator of sgrS sRNA,,,E254A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+7,"95,418",SNP,T→G,murF,,UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D- alanine ligase,,,S257A (TCG→GCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+8,"111,051",MOB,IS1 (–) +9 bp,mutT,,dGTP-preferring nucleoside triphosphate pyrophosphohydrolase,,,coding (8‑16/390 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+9,"133,452",SNP,A→C,acnB,,aconitate hydratase 2; aconitase B; 2-methyl-cis-aconitate hydratase,,,K613T (AAA→ACA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+10,"139,326",SNP,C→T,gcd,,glucose dehydrogenase,,,G634S (GGC→AGC),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+11,"142,754",SNP,A→C,"can, yadG",,carbonic anhydrase/putative ABC transporter ATPase,,,intergenic (‑84/‑25),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+12,"143,263",SNP,A→C,yadG,,putative ABC transporter ATPase,,,E162A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+13,"162,349",SNP,A→C,hrpB,,putative ATP-dependent helicase,,,Y82S (TAC→TCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+14,"213,847",SNP,T→G,rof,,modulator of Rho-dependent transcription termination,,,E29A (GAG→GCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+15,"223,801",DUP,"1,752 bp x4.3",[],,,,,Duplication,1.0,,,,,,,
+16,"227,016",DUP,"1,632 bp x5.3",[],,,,,Duplication,1.0,,,,,,,
+17,"243,021",SNP,T→G,fadE,,acyl coenzyme A dehydrogenase,,,T95P (ACC→CCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+18,"257,298",SNP,A→C,frsA,,fermentation-respiration switch protein; PTS Enzyme IIA(Glc)-binding protein; pNP-butyrate esterase activity,,,N258H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+19,"270,620",DUP,612 bp x2.9,"[insN], [insI1]",,,,,Duplication,1.0,,,,,,,
+20,"273,959",DUP,"1,183 bp x10.3",insH1,,,,,Duplication,1.0,,,,,,,
+21,"279,512",DUP,368 bp x2.7,"[insB1], insA",,,,,Duplication,1.0,,,,,,,
+22,"290,983",DUP,380 bp x2.7,"[insB1], insA",,,,,Duplication,1.0,,,,,,,
+23,"299,214",SNP,A→C,paoC,,"PaoABC aldehyde oxidoreductase, Moco-containing subunit",,,F574C (TTC→TGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+24,"301,463",SNP,T→G,paoB,,"PaoABC aldehyde oxidoreductase, FAD-containing subunit",,,E142A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+25,"313,275",SNP,T→G,"ykgR, ykgP",,"uncharacterized protein/pseudogene, oxidoreductase family",,,intergenic (‑33/+441),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+26,"315,238",DUP,"1,218 bp x4.1","insE1, insF1",,,,,Duplication,1.0,,,,,,,
+27,"316,817",SNP,T→G,ykgA,,"pseudogene, AraC family;putative regulator; Not classified; putative ARAC-type regulatory protein",,,pseudogene (353/684 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+28,"354,812",SNP,C→T,"prpE, codB",,propionate--CoA ligase/cytosine transporter,,,intergenic (+220/‑110),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+29,"366,811",SNP,T→G,lacI,,lactose-inducible lac operon transcriptional repressor,,,N234H (AAT→CAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+30,"381,297",DUP,"1,270 bp x6.6","[yaiX], insC1, [insD1]",,,,,Duplication,1.0,,,,,,,
+31,"391,733",DUP,"1,211 bp x4.2","[yaiT], insF1, insE1",,,,,Duplication,1.0,,,,,,,
+32,"394,041",SNP,T→G,yaiT,,"pseudogene, autotransporter family;putative structure; Not classified; interrupted by IS3; putative flagellin structural protein",,,pseudogene (1072/1449 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+33,"400,871",SNP,T→G,ddlA,,D-alanine-D-alanine ligase A,,,E18A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+34,"402,002",SNP,T→G,phoA,,bacterial alkaline phosphatase,,,Y86D (TAT→GAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+35,"451,881",SNP,A→G,"cyoA, ampG",,cytochrome o ubiquinol oxidase subunit II/muropeptide transporter,,,intergenic (‑271/+189),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+36,"463,948",SNP,A→C,ybaV,,putative competence-suppressing periplasmic helix-hairpin-helix DNA-binding protein,,,G4G (GGA→GGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+37,"480,566",SNP,A→C,tomB,,Hha toxicity attenuator; conjugation-related protein,,,L48W (TTG→TGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+38,"491,048",SNP,T→G,ybaN,,DUF454 family inner membrane protein,,,F56C (TTT→TGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+39,"519,286",SNP,A→C,tesA,,acyl-CoA thioesterase 1 and protease I and lysophospholipase L1,,,V160V (GTT→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+40,"526,052",DUP,600 bp x2.3,[rhsD],,,,,Duplication,1.0,,,,,,,
+41,"546,173",SNP,T→G,allD,,ureidoglycolate dehydrogenase,,,E64A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+42,"566,788",DUP,"1,222 bp x4.1","[renD], insE1, insF1",,,,,Duplication,1.0,,,,,,,
+43,"568,937",SNP,A→C,ybcK,,DLP12 prophage; putative recombinase,,,S12S (TCA→TCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+44,"570,560",SNP,A→C,"ybcK, ybcL",,DLP12 prophage; putative recombinase/inactive polymorphonuclear leukocyte migration suppressor; DLP12 prophage; UPF0098 family secreted protein,,,intergenic (+132/‑333),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+45,"574,595",DUP,"1,184 bp x10.3","[nmpC], insH1",,,,,Duplication,1.0,,,,,,,
+46,"576,137",SNP,T→G,nmpC,,"DLP12 prophage; truncated outer membrane porin (pseudogene);IS, phage, Tn; Phage or Prophage Related; outer membrane porin protein; locus of qsr prophage",,,pseudogene (689/1040 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+47,"608,040",DUP,"1,286 bp x3.1",insL1,,,,,Duplication,1.0,,,,,,,
+48,"611,121",SNP,A→C,fepA,,ferrienterobactin outer membrane transporter,,,S458R (AGT→AGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+49,"615,736",SNP,A→C,entF,,"enterobactin synthase multienzyme complex component, ATP-dependent",,,E527A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+50,"619,006",SNP,A→C,fepE,,regulator of length of O-antigen component of lipopolysaccharide chains,,,G251G (GGA→GGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+51,"623,458",SNP,T→G,entS,,"enterobactin exporter, iron-regulated",,,L387V (TTG→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+52,"637,742",SNP,G→C,"ybdO, dsbG",,"putative DNA-binding transcriptional regulator/thiol:disulfide interchange protein, periplasmic",,,intergenic (‑124/+85),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+53,"647,430",SNP,C→T,citG,,2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase,,,R27H (CGC→CAC),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+54,"650,553",SNP,T→G,citD,,"citrate lyase, acyl carrier (gamma) subunit",,,A77A (GCA→GCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+55,"653,352",SNP,A→C,citA,,sensory histidine kinase in two-component regulatory system with CitB,,,Q373P (CAG→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+56,"687,855",DUP,"1,183 bp x10.3",insH1,,,,,Duplication,1.0,,,,,,,
+57,"718,928",SNP,T→G,speF,,"ornithine decarboxylase isozyme, inducible",,,E511D (GAA→GAC),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+58,"733,589",SNP,T→G,rhsC,,Rhs protein with putative toxin domain; putative neighboring cell growth inhibitor,,,L1336* (TTA→TGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+59,"741,597",SNP,T→G,dtpD,,dipeptide and tripeptide permease D,,,A320A (GCA→GCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+60,"747,460",SNP,G→A,abrB,,regulator of aidB expression; inner membrane protein,,,R104C (CGC→TGC),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,"754,738",SNP,A→C,"gltA, sdhC",,"citrate synthase/succinate dehydrogenase, membrane subunit, binds cytochrome b556",,,intergenic (‑270/‑439),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+62,"783,757",SNP,A→C,pnuC,,nicotinamide riboside transporter,,,I198L (ATT→CTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+63,"798,817",SNP,T→G,pgl,,6-phosphogluconolactonase,,,S78A (TCT→GCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+64,"825,545",SNP,T→G,ybhR,,putative ABC transporter permease,,,V188V (GTA→GTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+65,"846,198",SNP,A→C,glnQ,,glutamine transporter subunit,,,F89C (TTC→TGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+66,"917,078",SNP,T→G,ybjD,,putative OLD family ATP-dependent endonuclease; DUF2813 family protein,,,D202E (GAT→GAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+67,"921,236",SNP,A→C,macB,,macrolide ABC transporter peremase/ATPase,,,K297T (AAA→ACA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+68,"924,571",SNP,T→G,clpA,,"ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity",,,I436M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+69,"930,957",SNP,A→C,cydD,,glutathione/cysteine ABC transporter export permease/ATPase,,,N2K (AAT→AAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+70,"954,603",SNP,T→G,"focA, ycaO",,formate channel/ribosomal protein S12 methylthiotransferase accessory factor,,,intergenic (‑137/+269),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+71,"960,657",SNP,C→T,ycaL,,putative peptidase-related chaperone,,,L132L (CTG→TTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+72,"987,767",SNP,T→G,asnS,,asparaginyl tRNA synthetase,,,M407L (ATG→CTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+73,"1,035,960",SNP,T→G,hyaD,,hydrogenase 1 maturation protease,,,L64R (CTC→CGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+74,"1,048,134",SNP,A→C,gfcC,,putative O-antigen capsule production periplasmic protein,,,N186K (AAT→AAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+75,"1,078,882",SNP,T→G,putA,,fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase,,,M1M (ATG→CTG) †,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+76,"1,089,222",SNP,G→A,pgaB,,"poly-beta-1,6-N-acetyl-D-glucosamine (PGA) N-deacetylase outer membrane export lipoprotein",,,D212D (GAC→GAT),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+77,"1,091,002",SNP,T→G,pgaA,,"biofilm adhesin polysaccharide PGA secretin; OM porin; poly-beta-1,6-N-acetyl-D-glucosamine export protein",,,N430H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+78,"1,094,270",DUP,"1,220 bp x4.2","insF1, insE1",,,,,Duplication,1.0,,,,,,,
+79,"1,114,259",SNP,A→C,"msyB, mdtG",,multicopy suppressor of secY and secA/putative drug efflux system protein,,,intergenic (‑78/+5),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+80,"1,134,118",SNP,A→C,flgF,,flagellar component of cell-proximal portion of basal-body rod,,,Q106P (CAG→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+81,"1,139,916",SNP,T→G,flgK,,flagellar hook-filament junction protein 1,,,D513E (GAT→GAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+82,"1,183,048",SNP,T→G,potC,,spermidine/putrescine ABC transporter permease,,,L191F (TTA→TTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+83,"1,192,380",SNP,T→G,hflD,,putative lysogenization regulator,,,E84D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+84,"1,224,314",SNP,T→G,minE,,cell division topological specificity factor,,,N78H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+85,"1,256,574",SNP,T→G,"ycgV, ychF",,"putative adhesin/catalase inhibitor protein; ATPase, K+-dependent, ribosome-associated",,,intergenic (‑622/+147),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+86,"1,290,933",SNP,T→G,rssB,,PcnB-degradosome interaction factor; response regulator,,,L231R (CTT→CGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+87,"1,292,989",MOB,IS1 (+) +8 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑67/‑531),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+88,"1,293,008",MOB,IS1 (+) +9 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑86/‑511),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+89,"1,293,015",MOB,IS1 (–) +8 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑93/‑505),0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+90,"1,293,032",MOB,IS1 (–) +8 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑110/‑488),0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,"1,293,036",MOB,IS2 (+) +5 bp,"hns, tdk",,global DNA-binding transcriptional dual regulator H-NS/thymidine kinase/deoxyuridine kinase,,,intergenic (‑114/‑487),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,"1,299,499",DEL,"Δ1,199 bp","ychE, oppA",,UPF0056 family inner membrane protein/oligopeptide ABC transporter periplasmic binding protein,,,intergenic (+254/‑485),0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+93,"1,299,522",DUP,"1,160 bp x10.3",[],,,,,Duplication,1.0,,,,,,,
+94,"1,325,833",SNP,T→G,yciQ,,enhancer of membrane protein expression; putative inner membrane protein,,,V363G (GTC→GGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+95,"1,326,908",SNP,A→C,rluB,,23S rRNA pseudouridine(2605) synthase,,,E19D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+96,"1,343,516",SNP,A→C,"osmB, yciT",,osmotically and stress inducible lipoprotein/global regulator of transcription; DeoR family,,,intergenic (‑188/+81),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+97,"1,396,049",DUP,"1,183 bp x10.3",insH1,,,,,Duplication,1.0,,,,,,,
+98,"1,424,158",SNP,T→G,trkG,,Rac prophage; potassium transporter subunit,,,L126* (TTA→TGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+99,"1,432,583",SNP,T→G,tfaR,,Rac prophage; putative tail fiber assembly protein,,,F58C (TTC→TGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+100,"1,438,947",SNP,T→G,pfo,,pyruvate-flavodoxin oxidoreductase,,,E613A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+101,"1,461,931",SNP,A→C,paaJ,,"3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase",,,N347H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+102,"1,467,931",DUP,"1,270 bp x6.6","[ydbA], [insD1], insC1",,,,,Duplication,1.0,,,,,,,
+103,"1,469,337",DUP,"1,139 bp x2.6","[ydbA], [insI1]",,,,,Duplication,1.0,,,,,,,
+104,"1,479,936",SNP,A→C,ynbC,,putative esterase,,,N267H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+105,"1,486,556",SNP,A→C,hrpA,,putative ATP-dependent helicase,,,I1166L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+106,"1,528,408",DUP,660 bp x2.3,[rhsE],,,,,Duplication,1.0,,,,,,,
+107,"1,546,032",SNP,A→C,"yddL, yddG",,putative lipoprotein;putative membrane; Not classified; putative outer membrane porin protein/aromatic amino acid exporter,,,intergenic (‑4/+256),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+108,"1,562,611",SNP,A→C,ddpX,,"D-ala-D-ala dipeptidase, Zn-dependent",,,F156V (TTT→GTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+109,"1,571,816",SNP,T→G,gadB,,"glutamate decarboxylase B, PLP-dependent",,,D77A (GAT→GCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+110,"1,575,705",SNP,T→G,yddB,,putative TonB-dependent outer membrane receptor,,,N639H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+111,"1,597,634",SNP,A→C,yneO,,"pseudogene, AidA homolog",,,pseudogene (354/3861 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+112,"1,630,598",MOB,IS5 (+) +4 bp,ydfI,,putative NAD-dependent D-mannonate oxidoreductase,,,coding (313‑316/1461 nt),0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+113,"1,650,852",DUP,673 bp x6.1,"[ydfJ], [insD1]",,,,,Duplication,1.0,,,,,,,
+114,"1,676,734",SNP,T→G,pntA,,"pyridine nucleotide transhydrogenase, alpha subunit",,,K390N (AAA→AAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+115,"1,681,460",SNP,T→G,folM,,"dihydromonapterin reductase, NADPH-dependent; dihydrofolate reductase isozyme",,,M162R (ATG→AGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+116,"1,714,643",SNP,T→G,gstA,,glutathionine S-transferase,,,I89M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+117,"1,742,506",SNP,T→G,cfa,,"cyclopropane fatty acyl phospholipid synthase, SAM-dependent",,,L365R (CTC→CGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+118,"1,755,429",DEL,(T)5→4,"ydhZ, pykF",,uncharacterized protein/pyruvate kinase I,,,intergenic (‑288/‑269),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+119,"1,756,929",SNP,T→G,pykF,,pyruvate kinase I,,,L411R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+120,"1,815,451",SNP,T→G,katE,,"catalase HPII, heme d-containing",,,F529V (TTT→GTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+121,"1,822,043",SNP,T→G,osmE,,osmotically-inducible lipoprotein,,,I72L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+122,"1,830,953",SNP,T→G,astC,,"succinylornithine transaminase, PLP-dependent",,,N344H (AAT→CAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+123,"1,869,873",SNP,T→G,yeaH,,UPF0229 family protein,,,F307V (TTC→GTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+124,"1,879,829",MOB,Δ1 bp :: IS186 (+) +6 bp :: Δ1 bp,yeaR,,"DUF1971 family protein, nitrate-inducible",,,coding (115‑120/360 nt),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+125,"1,896,050",SNP,A→C,pabB,,"aminodeoxychorismate synthase, subunit I",,,N416H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+126,"1,921,059",SNP,T→G,rsmF,,"16S rRNA m(5)C1407 methyltransferase, SAM-dependent",,,P279P (CCT→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+127,"1,927,578",SNP,A→C,ptrB,,protease II,,,I421R (ATA→AGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+128,"1,962,412",SNP,A→C,yecT,,uncharacterized protein,,,L147L (CTA→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+129,"1,995,398",MOB,IS5 (–) +4 bp,"uvrY, yecF",,response regulator in two-component regulatory system with BarA/DUF2594 family protein,,,intergenic (‑39/‑417),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+130,"2,008,526",SNP,A→C,yedE,,UPF0394 family sulphur transport domain-containing inner membrane protein,,,I84L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+131,"2,010,994",SNP,A→C,yedL,,GNAT family putative N-acetyltransferase,,,D132A (GAT→GCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+132,"2,020,656",SNP,T→G,fliM,,flagellar motor switching and energizing component,,,N190K (AAT→AAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+133,"2,021,050",SNP,A→C,fliM,,flagellar motor switching and energizing component,,,N322H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+134,"2,036,444",SNP,T→G,hchA,,glyoxalase III and Hsp31 molecular chaperone,,,Y204D (TAT→GAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+135,"2,066,728",DUP,562 bp x9.7,[insH1],,,,,Duplication,1.0,,,,,,,
+136,"2,068,952",DUP,"1,300 bp x6.5","[yoeA], [insD1], insC1",,,,,Duplication,1.0,,,,,,,
+137,"2,075,512",SNP,T→G,yeeR,,CP4-44 prophage; putative membrane protein,,,L245R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+138,"2,077,040",SNP,T→G,"yeeT, cbeA",,CP4-44 prophage; uncharacterized protein/CP4-44 prophage; cytoskeleton bundling-enhancing factor A; CbtA antitoxin,,,intergenic (+2/‑72),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+139,"2,101,754",DUP,"1,172 bp x10.3","[wbbL], insH1",,,,,Duplication,1.0,,,,,,,
+140,"2,110,741",SNP,A→C,rfbA,,glucose-1-phosphate thymidylyltransferase,,,F93L (TTT→TTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+141,"2,127,751",SNP,T→G,gmd,,"GDP-D-mannose dehydratase, NAD(P)-binding",,,E188D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+142,"2,151,093",SNP,T→G,"yegI, yegJ",,protein kinase-related putative non-specific DNA-binding protein/uncharacterized protein,,,intergenic (‑108/‑92),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+143,"2,170,183",DUP,"1,217 bp x4.1","[gatR], insE1, insF1",,,,,Duplication,1.0,,,,,,,
+144,"2,170,272",SNP,A→C,insE1,,IS3 transposase A,,,K13Q (AAA→CAA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+145,"2,179,614",SNP,T→G,yegT,,"nucleoside transporter, low affinity",,,F265C (TTC→TGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+146,"2,185,809",SNP,T→G,"rcnR, rcnA",,transcriptional repressor of rcnA/membrane protein conferring nickel and cobalt resistance,,,intergenic (‑13/‑108),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+147,"2,208,622",SNP,T→G,yehP,,VMA domain putative YehL ATPase stimulator,,,L219* (TTA→TGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+148,"2,221,860",SNP,T→G,bglX,,"beta-D-glucoside glucohydrolase, periplasmic",,,K44Q (AAA→CAA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+149,"2,224,288",MOB,IS5 (+) +4 bp,pbpG,,D-alanyl-D-alanine endopeptidase,,,coding (580‑583/933 nt),0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+150,"2,273,796",SNP,A→C,yejA,,microcin C ABC transporter periplasmic binding protein,,,D478A (GAC→GCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+151,"2,278,486",SNP,T→G,"yejG, bcr",,uncharacterized protein/bicyclomycin/cysteine/sulfonamide efflux transporter,,,intergenic (‑249/+84),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+152,"2,281,112",SNP,A→C,yejH,,putative ATP-dependent DNA or RNA helicase,,,I161L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+153,"2,288,923",DUP,"1,183 bp x10.3","[yejO], insH1",,,,,Duplication,1.0,,,,,,,
+154,"2,292,894",SNP,A→C,dsbE,,periplasmic thioredoxin of cytochrome c-type biogenesis,,,L24R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+155,"2,318,639",SNP,A→C,rcsC,,hybrid sensory kinase in two-component regulatory system with RcsB and YojN,,,F413C (TTT→TGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+156,"2,323,353",SNP,T→G,"atoC, atoD",,"fused response regulator of ato operon, in two-component system with AtoS: response regulator/sigma54 interaction protein/acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit",,,intergenic (+102/‑94),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+157,"2,330,404",SNP,A→C,yfaS,,"pseudogene, bacterial alpha2-macroglobulin YfaS variant family; putative membrane protein",,,pseudogene (3999/4605 nt),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+158,"2,387,305",SNP,G→A,yfbM,,DUF1877 family protein,,,P124P (CCG→CCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+159,"2,395,394",SNP,A→C,nuoJ,,"NADH:ubiquinone oxidoreductase, membrane subunit J",,,L168R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+160,"2,398,075",SNP,A→C,nuoG,,"NADH:ubiquinone oxidoreductase, chain G",,,I697M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+161,"2,421,142",SNP,T→G,yfcG,,GSH-dependent disulfide bond oxidoreductase,,,T174T (ACT→ACG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+162,"2,483,770",MOB,IS5 (–) +4 bp,evgA,,response regulator in two-component regulatory system with EvgS,,,coding (16‑19/615 nt),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+163,"2,488,822",SNP,A→C,yfdE,,acetyl-CoA:oxalate CoA-transferase,,,L116R (CTT→CGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+164,"2,503,731",SNP,T→G,fryA,,"putative PTS enzyme: Hpr, enzyme I and IIA components",,,E252A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+165,"2,514,322",DUP,"1,289 bp x3.1",insL1,,,,,Duplication,1.0,,,,,,,
+166,"2,518,687",SNP,A→C,yfeC,,DUF1323 family putative DNA-binding protein,,,E74A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+167,"2,533,492",SNP,A→T,"cysK, ptsH",,"cysteine synthase A, O-acetylserine sulfhydrolase A subunit/phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)",,,intergenic (+112/‑272),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+168,"2,547,053",SNP,T→G,murP,,"N-acetylmuramic acid permease, EIIBC component, PTS system",,,G127G (GGT→GGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+169,"2,589,778",SNP,T→G,acrD,,aminoglycoside/multidrug efflux system,,,D728E (GAT→GAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+170,"2,624,901",SNP,T→G,ppk,,"polyphosphate kinase, component of RNA degradosome",,,Y620D (TAT→GAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+171,"2,628,644",SNP,A→T,yfgF,,"cyclic-di-GMP phosphodiesterase, anaerobic",,,C99S (TGT→AGT),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+172,"2,668,449",SNP,A→C,hcaR,,hca operon transcriptional regulator,,,Y150D (TAT→GAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+173,"2,717,422",SNP,A→C,ung,,uracil-DNA-glycosylase,,,V223V (GTA→GTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+174,"2,726,137",DUP,"4,751 bp x5.2",[],,,,,Duplication,1.0,,,,,,,
+175,"2,753,535",DEL,Δ1 bp,"recN, bamE",,recombination and repair protein/lipoprotein component of BamABCDE OM biogenesis complex,,,intergenic (+79/‑70),0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+176,"2,769,390",SNP,A→C,yfjQ,,CP4-57 prophage; uncharacterized protein,,,R242R (CGA→CGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+177,"2,777,977",SNP,A→T,"ypjF, ypjA",,CP4-57 prophage; toxin of the YpjF-YfjZ toxin-antitoxin system/adhesin-like autotransporter,,,intergenic (+195/+169),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+178,"2,809,761",SNP,G→T,ygaZ,,"putative L-valine exporter, norvaline resistance protein",,,E49* (GAA→TAA),0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+179,"2,809,897",INS,(TTCGCCATGTGTTGTATGG)1→2,ygaZ,,"putative L-valine exporter, norvaline resistance protein",,,coding (281/738 nt),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+180,"2,809,923",DEL,Δ10 bp,ygaZ,,"putative L-valine exporter, norvaline resistance protein",,,coding (307‑316/738 nt),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,"2,869,491",SNP,A→C,pcm,,L-isoaspartate protein carboxylmethyltransferase type II,,,L10R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+182,"2,876,678",MOB,IS5 (+) +4 bp,iap,,aminopeptidase in alkaline phosphatase isozyme conversion,,,coding (98‑101/1038 nt),0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+183,"2,899,375",SNP,A→C,ygcU,,putative FAD-linked oxidoreductase,,,I15S (ATT→AGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+184,"2,904,306",SNP,T→G,"ygcE, queE",,putative kinase/7-carboxy-7-deazaguanine synthase; queosine biosynthesis,,,intergenic (+932/+441),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+185,"2,912,404",SNP,A→C,relA,,(p)ppGpp synthetase I/GTP pyrophosphokinase,,,V416V (GTT→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+186,"2,934,721",SNP,T→G,fucP,,L-fucose transporter,,,S163A (TCG→GCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+187,"2,942,844",SNP,T→G,gcvB,,"sRNA antisense regulator represses oppA, dppA, gltI and livJ expression, Hfq-dependent",,,noncoding (149/206 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+188,"2,956,720",SNP,T→G,ptrA,,protease III,,,K722T (AAA→ACA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+189,"2,968,180",SNP,T→G,ptsP,,PEP-protein phosphotransferase enzyme I; GAF domain containing protein,,,I85I (ATA→ATC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+190,"2,986,652",SNP,T→G,yqeG,,putative transporter,,,V269G (GTC→GGC),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+191,"2,996,387",DUP,"1,257 bp x6.6","[insD1], insC1",,,,,Duplication,1.0,,,,,,,
+192,"3,006,859",SNP,A→C,ygeW,,putative carbamoyltransferase,,,S200R (AGC→CGC),0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+193,"3,009,624",SNP,A→C,ygeY,,putative peptidase,,,K287N (AAA→AAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+194,"3,014,506",SNP,T→G,yqeC,,putative selenium-dependent hydroxylase accessory protein,,,Q184H (CAA→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+195,"3,040,512",SNP,A→C,cptA,,toxin of CptAB toxin-antitoxin pair,,,G104G (GGT→GGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+196,"3,044,628",SNP,A→C,bglA,,6-phospho-beta-glucosidase A,,,K323Q (AAG→CAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+197,"3,052,652",SNP,T→G,ubiH,,"2-octaprenyl-6-methoxyphenol hydroxylase, FAD/NAD(P)-binding",,,Q289H (CAA→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+198,"3,082,025",SNP,A→C,loiP,,"Phe-Phe periplasmic metalloprotease, OM lipoprotein; low salt-inducible; Era-binding heat shock protein",,,Y38S (TAC→TCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+199,"3,089,170",SNP,T→G,galP,,D-galactose transporter,,,V296G (GTC→GGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+200,"3,101,594",SNP,T→G,yggN,,DUF2884 family putative periplasmic protein,,,A10A (GCA→GCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+201,"3,123,491",SNP,A→C,glcB,,malate synthase G,,,I105M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+202,"3,130,151",DUP,"1,183 bp x10.3",insH1,,,,,Duplication,1.0,,,,,,,
+203,"3,174,035",SNP,T→G,parE,,"DNA topoisomerase IV, subunit B",,,E454D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+204,"3,174,612",SNP,A→C,parE,,"DNA topoisomerase IV, subunit B",,,L262R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+205,"3,181,174",SNP,G→A,ygiC,,ATP-Grasp family ATPase,,,G252S (GGC→AGC),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+206,"3,182,529",SNP,A→C,"ygiD, zupT",,"4,5- DOPA-extradiol-dioxygenase/zinc transporter",,,intergenic (‑122/‑21),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+207,"3,186,137",DUP,"1,255 bp x6.6","[yqiG], insC1, [insD1]",,,,,Duplication,1.0,,,,,,,
+208,"3,197,496",SNP,T→G,glnE,,fused deadenylyltransferase/adenylyltransferase for glutamine synthetase,,,T716P (ACT→CCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+209,"3,198,644",SNP,A→C,glnE,,fused deadenylyltransferase/adenylyltransferase for glutamine synthetase,,,F333C (TTC→TGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+210,"3,271,880",SNP,T→G,garR,,tartronate semialdehyde reductase,,,E291A (GAA→GCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+211,"3,290,794",SNP,A→C,yraJ,,putative outer membrane protein,,,I661L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+212,"3,327,851",SNP,T→G,yhbY,,RNA binding protein associated with pre-50S ribosomal subunits,,,V21G (GTT→GGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+213,"3,365,560",DUP,"1,183 bp x10.3","[yhcE], insH1",,,,,Duplication,1.0,,,,,,,
+214,"3,393,985",SNP,A→C,yhdP,,DUF3971-AsmA2 domains protein,,,P758P (CCT→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+215,"3,399,779",SNP,A→C,mreC,,cell wall structural complex MreBCD transmembrane component MreC,,,L67R (CTG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+216,"3,400,051",SNP,T→G,mreB,,"cell wall structural complex MreBCD, actin-like component MreB",,,E346A (GAA→GCA),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+217,"3,408,510",SNP,A→C,panF,,pantothenate:sodium symporter,,,T302P (ACC→CCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+218,"3,423,711",DUP,"4,781 bp x4.9",[],,,,,Duplication,1.0,,,,,,,
+219,"3,439,399",SNP,A→C,yhdN,,DUF1992 family protein,,,S37S (TCT→TCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+220,"3,452,188",SNP,A→C,rplD,,50S ribosomal subunit protein L4,,,V33V (GTT→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+221,"3,468,138",SNP,T→G,chiA,,periplasmic endochitinase,,,G572G (GGA→GGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+222,"3,473,612",SNP,A→C,rpsG,,30S ribosomal subunit protein S7,,,L157* (TTA→TGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+223,"3,488,471",SNP,A→C,yhfK,,"putative transporter, FUSC superfamily inner membrane protein",,,N561H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+224,"3,515,115",SNP,A→C,dam,,DNA adenine methyltransferase,,,L267V (TTG→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+225,"3,519,300",SNP,T→G,"aroK, hofQ",,shikimate kinase I/DNA catabolic putative fimbrial transporter,,,intergenic (‑236/+165),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+226,"3,520,438",SNP,A→C,hofQ,,DNA catabolic putative fimbrial transporter,,,L89R (CTC→CGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+227,"3,540,754",SNP,T→G,feoB,,ferrous iron transporter protein B and GTP-binding protein; membrane protein,,,I116M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+228,"3,559,559",SNP,T→G,rtcR,,sigma 54-dependent transcriptional regulator of rtcBA expression,,,I431S (ATC→AGC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+229,"3,559,766",SNP,A→C,rtcR,,sigma 54-dependent transcriptional regulator of rtcBA expression,,,Q500P (CAG→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+230,"3,577,196",SNP,T→G,gntK,,gluconate kinase 2,,,M133L (ATG→CTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+231,"3,583,519",DUP,325 bp x2.0,"[yrhA], [insA], [insB1]",,,,,Duplication,1.0,,,,,,,
+232,"3,600,185",SNP,T→G,rpoH,,"RNA polymerase, sigma 32 (sigma H) factor",,,Y200S (TAT→TCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+233,"3,602,989",SNP,T→G,ftsY,,Signal Recognition Particle (SRP) receptor,,,I419L (ATT→CTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+234,"3,619,362",DUP,370 bp x2.2,[rhsB],,,,,Duplication,1.0,,,,,,,
+235,"3,621,632",DUP,631 bp x2.4,[rhsB],,,,,Duplication,1.0,,,,,,,
+236,"3,623,709",SNP,T→G,yhhH,,putative NTF2 fold immunity protein for polymorphic toxin RhsB,,,I104S (ATT→AGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+237,"3,633,028",SNP,T→G,yhiL,,"pseudogene, DUF4049 family protein",,,pseudogene (238/414 nt),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+238,"3,652,039",DUP,"1,184 bp x10.3","[yhiS], insH1",,,,,Duplication,1.0,,,,,,,
+239,"3,662,163",SNP,A→C,mdtF,,"anaerobic multidrug efflux transporter, ArcA-regulated",,,N584H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+240,"3,679,181",SNP,T→G,yhjH,,"cyclic-di-GMP phosphodiesterase, FlhDC-regulated",,,R3R (AGG→CGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+241,"3,689,996",SNP,A→C,bcsZ,,"endo-1,4-D-glucanase",,,L89* (TTA→TGA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+242,"3,697,854",SNP,A→C,bcsE,,cellulose production protein,,,Q466P (CAA→CCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+243,"3,708,080",SNP,T→G,"dppA, proK",,dipeptide/heme ABC transporter periplasmic binding protein; dipeptide chemotaxis receptor/tRNA-Pro,,,intergenic (‑375/+536),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+244,"3,710,019",SNP,T→G,eptB,,"KDO phosphoethanolamine transferase, Ca(2+)-inducible",,,T153P (ACC→CCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+245,"3,714,488",SNP,A→C,bisC,,biotin sulfoxide reductase,,,L636W (TTG→TGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+246,"3,716,242",SNP,A→C,bisC,,biotin sulfoxide reductase,,,V51V (GTT→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+247,"3,725,176",SNP,T→G,glyQ,,"glycine tRNA synthetase, alpha subunit",,,E48A (GAG→GCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+248,"3,749,326",SNP,A→C,sgbU,,putative L-xylulose 5-phosphate 3-epimerase,,,D32A (GAT→GCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+249,"3,752,058",SNP,A→C,yiaU,,putative DNA-binding transcriptional regulator,,,I23L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+250,"3,762,353",DUP,370 bp x2.2,[rhsA],,,,,Duplication,1.0,,,,,,,
+251,"3,764,623",DUP,609 bp x2.4,[rhsA],,,,,Duplication,1.0,,,,,,,
+252,"3,790,919",SNP,A→C,tdh,,"L-threonine 3-dehydrogenase, NAD(P)-binding",,,L143V (TTA→GTA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+253,"3,798,659",DEL,(T)8→7,waaU,,lipopolysaccharide core biosynthesis,,,coding (654/1074 nt),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+254,"3,802,005",SNP,T→G,"waaR, waaO",,"lipopolysaccharide 1,2-glucosyltransferase; UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase/UDP-D-galactose:(glucosyl)lipopolysaccharide- alpha-1,3-D-galactosyltransferase",,,intergenic (‑6/+34),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+255,"3,815,859",DEL,Δ82 bp,"[rph],[rph]",,"[rph],[rph]",,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+256,"3,823,774",SNP,A→C,spoT,,"bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",,,N459H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+257,"3,913,683",SNP,A→C,"glmS, glmU",,L-glutamine:D-fructose-6-phosphate aminotransferase/fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase,,,intergenic (‑15/+147),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+258,"3,939,836",SNP,A→C,hsrA,,putative multidrug or homocysteine efflux system,,,F259L (TTT→TTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+259,"3,942,063",DUP,"4,513 bp x4.7",[],,,,,Duplication,1.0,,,,,,,
+260,"3,966,875",SNP,T→G,rho,,transcription termination factor,,,S153S (TCT→TCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+261,"3,968,900",MOB,IS5 (–) +4 bp,wecA,,UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase,,,coding (985‑988/1104 nt),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+262,"3,970,943",SNP,C→T,wecB,,UDP-N-acetyl glucosamine-2-epimerase,,,Q271* (CAG→TAG),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,"3,972,452",SNP,A→C,wecC,,UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase,,,Q398P (CAG→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+264,"4,001,645",DEL,Δ5 bp,corA,,magnesium/nickel/cobalt transporter,,,coding (220‑224/951 nt),0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,"4,008,222",SNP,A→C,rhtC,,threonine efflux pump,,,I156L (ATC→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+266,"4,012,707",SNP,A→C,metR,,methionine biosynthesis regulon transcriptional regulator,,,F37C (TTT→TGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+267,"4,024,756",SNP,T→G,rfaH,,transcription antitermination protein,,,E22D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+268,"4,031,324",SNP,A→C,pepQ,,proline dipeptidase,,,Q55P (CAA→CCA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+269,"4,035,353",DUP,319 bp x2.2,[],,,,,Duplication,1.0,,,,,,,
+270,"4,035,786",DUP,"4,616 bp x4.9",[],,,,,Duplication,1.0,,,,,,,
+271,"4,046,123",SNP,A→C,yihG,,"inner membrane protein, inner membrane acyltransferase",,,H160Q (CAT→CAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+272,"4,046,716",SNP,A→C,"yihG, polA",,"inner membrane protein, inner membrane acyltransferase/5' to 3' DNA polymerase and 3' to 5'/5' to 3' exonuclease",,,intergenic (‑114/‑250),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+273,"4,061,235",SNP,A→C,yihM,,putative sugar phosphate isomerase,,,Y24S (TAT→TCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+274,"4,117,812",SNP,T→G,glpF,,glycerol facilitator,,,Q93H (CAA→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+275,"4,132,227",SNP,C→A,metL,,Bifunctional aspartokinase/homoserine dehydrogenase 2,,,A798E (GCG→GAG),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+276,"4,146,625",SNP,T→G,pflC,,putative [formate-C-acetyltransferase 2]-activating enzyme; pyruvate formate-lyase 1-activating enzyme,,,L123R (CTT→CGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+277,"4,166,481",DUP,"5,113 bp x5.0",[],,,,,Duplication,1.0,,,,,,,
+278,"4,182,881",SNP,A→T,rpoB,,"RNA polymerase, beta subunit",,,E546V (GAA→GTA),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+279,"4,183,258",SNP,G→A,rpoB,,"RNA polymerase, beta subunit",,,E672K (GAA→AAA),1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+280,"4,183,597",SNP,G→T,rpoB,,"RNA polymerase, beta subunit",,,D785Y (GAC→TAC),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+281,"4,184,543",SNP,C→A,rpoB,,"RNA polymerase, beta subunit",,,P1100Q (CCG→CAG),0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+282,"4,186,603",SNP,A→C,rpoC,,"RNA polymerase, beta prime subunit",,,E418D (GAA→GAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+283,"4,190,100",SNP,T→G,yjaZ,,stationary phase growth adaptation protein,,,I105M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+284,"4,208,039",DUP,"4,881 bp x5.2",[],,,,,Duplication,1.0,,,,,,,
+285,"4,215,122",SNP,T→G,metA,,homoserine O-transsuccinylase,,,G281G (GGT→GGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+286,"4,222,536",SNP,A→C,"arpA, iclR",,ankyrin repeat protein/transcriptional repressor,,,intergenic (‑49/+268),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+287,"4,229,644",SNP,T→G,pepE,,"peptidase E, alpha-aspartyl dipeptidase",,,K167Q (AAA→CAA),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+288,"4,231,659",SNP,T→G,"yjbD, lysC",,DUF3811 family protein/lysine-sensitive aspartokinase 3,,,intergenic (‑28/+225),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+289,"4,260,939",SNP,T→G,yjbM,,uncharacterized protein,,,I114S (ATT→AGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+290,"4,285,713",SNP,A→C,acs,,acetyl-CoA synthetase,,,N553K (AAT→AAG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+291,"4,291,339",SNP,T→G,nrfD,,"formate-dependent nitrite reductase, membrane subunit",,,I288M (ATT→ATG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+292,"4,307,372",SNP,A→C,alsK,,D-allose kinase,,,M143R (ATG→AGG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+293,"4,313,090",SNP,T→G,"alsR, rpiB",,d-allose-inducible als operon transcriptional repressor; autorepressor; repressor of rpiR/ribose 5-phosphate isomerase B/allose 6-phosphate isomerase,,,intergenic (‑99/‑260),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+294,"4,358,516",SNP,A→C,cadA,,"lysine decarboxylase, acid-inducible",,,V34V (GTT→GTG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+295,"4,403,148",SNP,A→C,hflK,,modulator for HflB protease specific for phage lambda cII repressor,,,N371H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+296,"4,408,287",SNP,A→C,rnr,,"exoribonuclease R, RNase R",,,Q545P (CAG→CCG),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+297,"4,420,658",SNP,A→C,ulaA,,L-ascorbate-specific enzyme IIC permease component of PTS,,,N227H (AAC→CAC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+298,"4,475,797",SNP,A→C,yjgL,,SopA-central-domain-like hexapeptide repeat protein,,,I121L (ATT→CTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+299,"4,477,084",SNP,A→C,yjgL,,SopA-central-domain-like hexapeptide repeat protein,,,N550H (AAT→CAT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+300,"4,498,218",DUP,"1,255 bp x6.6","insC1, [insD1]",,,,,Duplication,1.0,,,,,,,
+301,"4,507,517",DUP,"1,132 bp x2.6","[insO], [insI1]",,,,,Duplication,1.0,,,,,,,
+302,"4,510,524",SNP,C→A,"yjhV, fecE",,"pseudogene, KpLE2 phage-like element/ferric citrate ABC transporter ATPase",,,intergenic (+391/+166),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+303,"4,522,275",SNP,T→G,yjhG,,putative dehydratase,,,H607P (CAT→CCT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+304,"4,548,617",SNP,A→C,fimG,,minor component of type 1 fimbriae,,,L111L (CTA→CTC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+305,"4,559,230",SNP,T→G,iadA,,isoaspartyl dipeptidase,,,S99S (TCA→TCC),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+306,"4,566,805",SNP,T→G,yjiN,,zinc-type alcohol dehydrogenase-like protein,,,I148L (ATT→CTT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+307,"4,595,235",SNP,A→C,lgoR,,putative transcriptional activator for L-galactonate catabolism,,,F206C (TTT→TGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+308,"4,595,496",SNP,G→A,lgoR,,putative transcriptional activator for L-galactonate catabolism,,,A119V (GCG→GTG),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,"4,613,561",SNP,C→T,yjjV,,putative DNase,,,R27R (CGC→CGT),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+310,"4,628,633",SNP,A→C,"nadR, ettA",,"trifunctional protein: nicotinamide mononucleotide adenylyltransferase, ribosylnicotinamide kinase, transcriptional repressor/energy-dependent translational throttle A",,,intergenic (+86/+222),0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0

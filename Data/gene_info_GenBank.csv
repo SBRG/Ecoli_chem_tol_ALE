@@ -2070,6 +2070,7 @@ b4498,gatR,NC_000913.3,,2169693,2170167,-,DNA-binding transcriptional repressor 
 b2088,insE5,NC_000913.3,,2170236,2170535,+,IS3 element protein InsE,"Replication, recombination and repair",P0CF66,Op1185
 b2089,insF5,NC_000913.3,,2170532,2171398,+,IS3 element protein InsF,"Replication, recombination and repair",P0CF79,Op1185
 b2091,gatD,NC_000913.3,,2171833,2172873,-,galactitol-1-phosphate 5-dehydrogenase,Amino acid transport and metabolism,P0A9S3,Op1186
+b2092,gatC,NC_000913.3,,2170945,2172300,,"galactitol-specific PTS enzyme IIC component	",Carbohydrate transport and metabolism,,Op1186
 b2093,gatB,NC_000913.3,,2174282,2174566,-,galactitol-specific PTS enzyme IIB component,Carbohydrate transport and metabolism,P37188,Op1186
 b2094,gatA,NC_000913.3,,2174597,2175049,-,galactitol-specific PTS enzyme IIA component,Carbohydrate transport and metabolism,P69828,Op1186
 b2095,gatZ,NC_000913.3,,2175059,2176321,-,tagatose-1%2C6-bisphosphate aldolase 2 subunit GatZ,Carbohydrate transport and metabolism,P0C8J8,Op1186
@@ -2325,7 +2326,7 @@ b2347,yfdC,NC_000913.3,,2465301,2466233,+,inner membrane protein YfdC,Inorganic 
 b2349,intS,NC_000913.3,,2466545,2467702,+,CPS-53 (KpLE1) prophage%3B prophage CPS-53 integrase,"Replication, recombination and repair",P37326,Op1325
 b2350,yfdG,NC_000913.3,,2467855,2468217,+,CPS-53 (KpLE1) prophage%3B putative bactoprenol-linked glucose translocase,"Intracellular trafficking, secretion, and vesicular transport",P77682,Op1326
 b2351,yfdH,NC_000913.3,,2468214,2469134,+,CPS-53 (KpLE1) prophage%3B bactoprenol glucosyl transferase,Cell wall/membrane/envelope biogenesis,P77293,Op1326
-b2352,yfdI,NC_000913.3,,2469131,2470462,+,CPS-53 (KpLE1) prophage%3B serotype-specific glucosyl transferase YfdI,No COG annotation,P76507,Op1326
+b2352,gtrS,NC_000913.3,,2469131,2470462,+,CPS-53 (KpLE1) prophage%3B serotype-specific glucosyl transferase YfdI,No COG annotation,P76507,Op1326
 b4780,yodE,NC_000913.3,,2470497,2470643,-,protein YodE,No COG annotation,UPI00107E63C3,Op16
 b2354,yfdK,NC_000913.3,,2471077,2471517,-,CPS-53 (KpLE1) prophage%3B putative tail fiber assembly protein YfdK,Function unknown,P77656,Op1327
 b2356,yfdM,NC_000913.3,,2472112,2472387,-,CPS-53 (KpLE1) prophage%3B putative methyltransferase YfdM,Transcription,UPI000013AE27,Op1327
@@ -3348,6 +3349,7 @@ b3418,malT,NC_000913.3,,3553085,3555790,+,DNA-binding transcriptional activator 
 b4475,rtcA,NC_000913.3,,3555833,3556849,-,RNA 3'-terminal phosphate cyclase,RNA processing and modification,P46849,Op1884
 b3421,rtcB,NC_000913.3,,3556853,3558079,-,RNA-splicing ligase,Function unknown,P46850,Op1884
 b3422,rtcR,NC_000913.3,,3558268,3559866,+,DNA-binding transcriptional activator RtcR,Transcription,P38035,Op1885
+b3423,glpR,NC_000913.3,,3557870,3558628,,"DNA-binding transcriptional repressor GlpR	",Transcription,,
 b3424,glpG,NC_000913.3,,3560622,3561452,-,rhomboid protease GlpG,Function unknown,P09391,Op1886
 b3425,glpE,NC_000913.3,,3561497,3561823,-,thiosulfate sulfurtransferase GlpE,Inorganic ion transport and metabolism,P0A6V5,Op1886
 b3426,glpD,NC_000913.3,,3562013,3563518,+,aerobic glycerol 3-phosphate dehydrogenase,Energy production and conversion,P13035,Op1887
