@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-07-12T11:39:26.891186</dc:date>
+    <dc:date>2022-07-18T22:32:08.381837</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -37,97 +37,84 @@ z
    </g>
    <g id="patch_2">
     <path d="M 308.376 143.28 
-C 308.376 129.354185 305.031486 115.62991 298.624706 103.265385 
-C 292.217925 90.90086 282.934322 80.253972 271.557351 72.223229 
-C 260.18038 64.192485 247.039344 59.010332 233.243236 57.1141 
-C 219.447127 55.217868 205.395269 56.662441 192.273518 61.325912 
+C 308.376 128.82547 304.772705 114.596381 297.89311 101.884001 
+C 291.013514 89.171621 281.072213 78.372489 268.971366 70.46661 
+C 256.870518 62.560731 242.987587 57.794714 228.582426 56.601068 
+C 214.177266 55.407421 199.699218 57.823379 186.462145 63.629696 
 L 221.4 143.28 
 L 308.376 143.28 
 z
 " style="fill: #1f77b4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
-    <path d="M 192.273518 61.325912 
-C 181.040315 65.318192 170.746955 71.577722 162.034263 79.714806 
-C 153.321572 87.85189 146.374189 97.694088 141.624633 108.62866 
-C 136.875077 119.563231 134.424001 131.358451 134.424 143.279992 
-C 134.423999 155.201532 136.875073 166.996753 141.624626 177.931325 
+    <path d="M 186.462145 63.629696 
+C 175.448277 68.460826 165.555245 75.524314 157.409681 84.372754 
+C 149.264117 93.221194 143.041713 103.663734 139.136601 115.038935 
+C 135.231489 126.414136 133.727898 138.476647 134.721067 150.462418 
+C 135.714236 162.44819 139.182743 174.098701 144.90689 184.675999 
 L 221.4 143.28 
-L 192.273518 61.325912 
+L 186.462145 63.629696 
 z
 " style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 141.624626 177.931325 
-C 149.588882 196.266886 163.63606 211.307744 181.385374 220.5047 
-C 199.134688 229.701656 219.523347 232.504015 239.095778 228.43682 
+    <path d="M 144.90689 184.675999 
+C 150.631038 195.253297 158.487361 204.529241 167.978235 211.916285 
+C 177.469109 219.303328 188.389824 224.642141 200.048655 227.594558 
+C 211.707486 230.546975 223.852963 231.049315 235.715781 229.06976 
+C 247.5786 227.090206 258.902891 222.671453 268.971366 216.09339 
 L 221.4 143.28 
-L 141.624626 177.931325 
+L 144.90689 184.675999 
 z
 " style="fill: #2ca02c; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 239.095778 228.43682 
-C 250.767969 226.011313 261.817797 221.211697 271.557337 214.336781 
-C 281.296878 207.461864 289.519733 198.65734 295.713975 188.471345 
+    <path d="M 268.971366 216.09339 
+C 277.015924 210.837617 284.134152 204.284826 290.036287 196.701762 
+C 295.938422 189.118698 300.543277 180.60967 303.663402 171.521057 
 L 221.4 143.28 
-L 239.095778 228.43682 
+L 268.971366 216.09339 
 z
 " style="fill: #d62728; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 295.713975 188.471345 
-C 297.772352 185.08649 299.597065 181.564955 301.175365 177.931345 
-C 302.753665 174.297735 304.081867 170.560534 305.150691 166.745856 
+    <path d="M 303.663402 171.521057 
+C 305.220812 166.984475 306.400289 162.326826 307.189761 157.595775 
+C 307.979234 152.864724 308.376 148.076464 308.376 143.279996 
 L 221.4 143.28 
-L 295.713975 188.471345 
+L 303.663402 171.521057 
 z
 " style="fill: #9467bd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_7">
-    <path d="M 305.150691 166.745856 
-C 306.219514 162.931178 307.026463 159.047929 307.565899 155.123243 
-C 308.105335 151.198557 308.375999 147.241597 308.376 143.280012 
-L 221.4 143.28 
-L 305.150691 166.745856 
-z
-" style="fill: #8c564b; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
-   </g>
    <g id="text_2">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="276.573086" y="67.392489" transform="rotate(-0, 276.573086, 67.392489)">Transport</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="273.728502" y="65.460209" transform="rotate(-0, 273.728502, 65.460209)">Transport</text>
    </g>
    <g id="text_3">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="251.49441" y="103.127687" transform="rotate(-0, 251.49441, 103.127687)">30.4%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="249.94282" y="102.073716" transform="rotate(-0, 249.94282, 102.073716)">31.6%</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="133.647096" y="107.438463" transform="rotate(-0, 133.647096, 107.438463)">TX/TL machineries</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="130.910261" y="114.489766" transform="rotate(-0, 130.910261, 114.489766)">TX/TL machineries</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="173.53478" y="124.970946" transform="rotate(-0, 173.53478, 124.970946)">26.1%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="172.041961" y="128.817111" transform="rotate(-0, 172.041961, 128.817111)">26.3%</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="177.383911" y="230.50417" transform="rotate(-0, 177.383911, 230.50417)">Stress signaling</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="197.913521" y="238.303014" transform="rotate(-0, 197.913521, 238.303014)">Stress signaling</text>
    </g>
    <g id="text_7">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="197.391224" y="192.09657" transform="rotate(-0, 197.391224, 192.09657)">21.7%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="208.589193" y="196.350485" transform="rotate(-0, 208.589193, 196.350485)">26.3%</text>
    </g>
    <g id="text_8">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="276.573071" y="223.717396" transform="rotate(-0, 276.573071, 223.717396)">Membrane components</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="296.899916" y="204.318876" transform="rotate(-0, 296.899916, 204.318876)">Membrane components</text>
    </g>
    <g id="text_9">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="251.494402" y="188.395818" transform="rotate(-0, 251.494402, 188.395818)">13.0%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="262.581772" y="177.814807" transform="rotate(-0, 262.581772, 177.814807)">10.5%</text>
    </g>
    <g id="text_10">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="309.152902" y="183.671417" transform="rotate(-0, 309.152902, 183.671417)">Metabolism</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="315.768738" y="161.30229" transform="rotate(-0, 315.768738, 161.30229)">Metabolism</text>
    </g>
    <g id="text_11">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="269.265219" y="166.552557" transform="rotate(-0, 269.265219, 166.552557)">4.3%</text>
-   </g>
-   <g id="text_12">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="316.182489" y="158.582505" transform="rotate(-0, 316.182489, 158.582505)">No information</text>
-   </g>
-   <g id="text_13">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="273.099539" y="152.867696" transform="rotate(-0, 273.099539, 152.867696)">4.3%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="272.873857" y="154.351215" transform="rotate(-0, 272.873857, 154.351215)">5.3%</text>
    </g>
   </g>
  </g>

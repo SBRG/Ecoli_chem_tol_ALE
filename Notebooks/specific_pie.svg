@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-07-12T11:39:30.580015</dc:date>
+    <dc:date>2022-07-18T22:32:08.580269</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -37,80 +37,80 @@ z
    </g>
    <g id="patch_2">
     <path d="M 308.376 143.28 
-C 308.376 125.632334 303.004861 108.395744 292.979844 93.872 
-C 282.954827 79.348256 268.742967 68.213975 252.242113 61.956027 
-C 235.741258 55.698078 217.720135 54.608002 200.585278 58.831365 
-C 183.450421 63.054729 168.000093 72.394778 156.297527 85.604246 
+C 308.376 128.013659 304.356595 113.013038 296.723425 99.791999 
+C 289.090254 86.57096 278.109037 75.589743 264.887998 67.956573 
+C 251.666959 60.323403 236.666337 56.303999 221.399996 56.304 
+C 206.133655 56.304001 191.133034 60.323406 177.911995 67.956577 
 L 221.4 143.28 
 L 308.376 143.28 
 z
 " style="fill: #1f77b4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
-    <path d="M 156.297527 85.604246 
-C 146.960557 96.143507 140.321 108.794128 136.951363 122.465286 
-C 133.581726 136.136444 133.581727 150.423569 136.951366 164.094726 
+    <path d="M 177.911995 67.956577 
+C 157.942643 79.48589 143.355643 98.496041 137.387634 120.76896 
+C 131.419625 143.041879 134.547265 166.798653 146.076577 186.768005 
 L 221.4 143.28 
-L 156.297527 85.604246 
+L 177.911995 67.956577 
 z
 " style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 136.951366 164.094726 
-C 140.321005 177.765883 146.960564 190.416504 156.297535 200.955763 
-C 165.634505 211.495022 177.39258 219.611033 190.557895 224.603976 
+    <path d="M 146.076577 186.768005 
+C 153.709748 199.989043 164.690966 210.97026 177.912006 218.603429 
+C 191.133045 226.236598 206.133667 230.256001 221.400008 230.256 
 L 221.4 143.28 
-L 136.951366 164.094726 
+L 146.076577 186.768005 
 z
 " style="fill: #2ca02c; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 190.557895 224.603976 
-C 203.72321 229.59692 217.906166 231.319041 231.88381 229.621846 
-C 245.861454 227.92465 259.220147 222.858364 270.80801 214.859837 
+    <path d="M 221.400008 230.256 
+C 236.666349 230.255999 251.66697 226.236593 264.888008 218.603421 
+C 278.109046 210.970249 289.090262 199.98903 296.723431 186.767991 
 L 221.4 143.28 
-L 190.557895 224.603976 
+L 221.400008 230.256 
 z
 " style="fill: #d62728; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 270.80801 214.859837 
-C 282.395873 206.86131 291.869988 196.167242 298.41343 183.69975 
-C 304.956872 171.232257 308.376003 157.360289 308.376 143.279984 
+    <path d="M 296.723431 186.767991 
+C 300.523885 180.185409 303.445108 173.132949 305.412368 165.791034 
+C 307.379627 158.449119 308.376001 150.880897 308.376 143.279988 
 L 221.4 143.28 
-L 270.80801 214.859837 
+L 296.723431 186.767991 
 z
 " style="fill: #9467bd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="255.326324" y="56.098567" transform="rotate(-0, 255.326324, 56.098567)">Metabolism</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="269.236797" y="62.699168" transform="rotate(-0, 269.236797, 62.699168)">Metabolism</text>
    </g>
    <g id="text_3">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="239.905268" y="96.967366" transform="rotate(-0, 239.905268, 96.967366)">38.5%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="247.492799" y="100.567694" transform="rotate(-0, 247.492799, 100.567694)">33.3%</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="128.5065" y="122.660815" transform="rotate(-0, 128.5065, 122.660815)">Stress signaling</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="128.986397" y="120.794856" transform="rotate(-0, 128.986397, 120.794856)">Stress signaling</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="170.730818" y="133.272922" transform="rotate(-0, 170.730818, 133.272922)">15.4%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="170.99258" y="132.255126" transform="rotate(-0, 170.99258, 132.255126)">25.0%</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="149.787288" y="208.998276" transform="rotate(-0, 149.787288, 208.998276)">Transport</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="173.563206" y="228.410709" transform="rotate(-0, 173.563206, 228.410709)">Transport</text>
    </g>
    <g id="text_7">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="182.338521" y="180.367208" transform="rotate(-0, 182.338521, 180.367208)">15.4%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="195.307204" y="190.955807" transform="rotate(-0, 195.307204, 190.955807)">16.7%</text>
    </g>
    <g id="text_8">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="232.932191" y="240.530968" transform="rotate(-0, 232.932191, 240.530968)">TX/TL machineries</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="269.236809" y="228.4107" transform="rotate(-0, 269.236809, 228.4107)">TX/TL machineries</text>
    </g>
    <g id="text_9">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="227.690286" y="197.566857" transform="rotate(-0, 227.690286, 197.566857)">15.4%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="247.492805" y="190.955802" transform="rotate(-0, 247.492805, 190.955802)">16.7%</text>
    </g>
    <g id="text_10">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="306.114773" y="190.016662" transform="rotate(-0, 306.114773, 190.016662)">Membrane components</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="313.813604" y="170.317075" transform="rotate(-0, 313.813604, 170.317075)">Membrane components</text>
    </g>
    <g id="text_11">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="267.608058" y="170.0136" transform="rotate(-0, 267.608058, 170.0136)">15.4%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="271.807421" y="159.26837" transform="rotate(-0, 271.807421, 159.26837)">8.3%</text>
    </g>
   </g>
  </g>
