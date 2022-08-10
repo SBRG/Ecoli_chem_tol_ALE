@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-07-18T22:32:08.381837</dc:date>
+    <dc:date>2022-08-10T14:14:20.612858</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -93,7 +93,7 @@ z
     <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="249.94282" y="102.073716" transform="rotate(-0, 249.94282, 102.073716)">31.6%</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="130.910261" y="114.489766" transform="rotate(-0, 130.910261, 114.489766)">TX/TL machineries</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="130.910261" y="114.489766" transform="rotate(-0, 130.910261, 114.489766)">Tc/Tl machineries</text>
    </g>
    <g id="text_5">
     <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="172.041961" y="128.817111" transform="rotate(-0, 172.041961, 128.817111)">26.3%</text>
