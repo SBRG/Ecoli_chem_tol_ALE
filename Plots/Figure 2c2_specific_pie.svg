@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-10T14:15:05.498191</dc:date>
+    <dc:date>2022-08-25T14:57:20.608088</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -48,37 +48,37 @@ z
    </g>
    <g id="patch_3">
     <path d="M 177.911995 67.956577 
-C 157.942643 79.48589 143.355643 98.496041 137.387634 120.76896 
-C 131.419625 143.041879 134.547265 166.798653 146.076577 186.768005 
+C 164.690957 75.589748 153.70974 86.570966 146.076571 99.792006 
+C 138.443402 113.013045 134.423999 128.013667 134.424 143.280008 
 L 221.4 143.28 
 L 177.911995 67.956577 
 z
 " style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 146.076577 186.768005 
-C 153.709748 199.989043 164.690966 210.97026 177.912006 218.603429 
-C 191.133045 226.236598 206.133667 230.256001 221.400008 230.256 
+    <path d="M 134.424 143.280008 
+C 134.424001 158.546349 138.443407 173.54697 146.076579 186.768008 
+C 153.709751 199.989046 164.69097 210.970262 177.912009 218.603431 
 L 221.4 143.28 
-L 146.076577 186.768005 
+L 134.424 143.280008 
 z
 " style="fill: #2ca02c; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 221.400008 230.256 
-C 236.666349 230.255999 251.66697 226.236593 264.888008 218.603421 
-C 278.109046 210.970249 289.090262 199.98903 296.723431 186.767991 
+    <path d="M 177.912009 218.603431 
+C 191.133049 226.2366 206.133672 230.256002 221.400012 230.256 
+C 236.666353 230.255998 251.666974 226.236591 264.888012 218.603419 
 L 221.4 143.28 
-L 221.400008 230.256 
+L 177.912009 218.603431 
 z
 " style="fill: #d62728; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 296.723431 186.767991 
-C 300.523885 180.185409 303.445108 173.132949 305.412368 165.791034 
-C 307.379627 158.449119 308.376001 150.880897 308.376 143.279988 
+    <path d="M 264.888012 218.603419 
+C 278.109049 210.970246 289.090265 199.989027 296.723433 186.767987 
+C 304.356601 173.546947 308.376003 158.546324 308.376 143.279984 
 L 221.4 143.28 
-L 296.723431 186.767991 
+L 264.888012 218.603419 
 z
 " style="fill: #9467bd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
@@ -89,28 +89,28 @@ z
     <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="247.492799" y="100.567694" transform="rotate(-0, 247.492799, 100.567694)">33.3%</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="128.986397" y="120.794856" transform="rotate(-0, 128.986397, 120.794856)">Stress signaling</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="138.544228" y="97.720206" transform="rotate(-0, 138.544228, 97.720206)">Stress signaling</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="170.99258" y="132.255126" transform="rotate(-0, 170.99258, 132.255126)">25.0%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="176.205943" y="119.668954" transform="rotate(-0, 176.205943, 119.668954)">16.7%</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="173.563206" y="228.410709" transform="rotate(-0, 173.563206, 228.410709)">Transport</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="138.544237" y="193.391747" transform="rotate(-0, 138.544237, 193.391747)">Transport</text>
    </g>
    <g id="text_7">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="195.307204" y="190.955807" transform="rotate(-0, 195.307204, 190.955807)">16.7%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="176.205948" y="171.854555" transform="rotate(-0, 176.205948, 171.854555)">16.7%</text>
    </g>
    <g id="text_8">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="269.236809" y="228.4107" transform="rotate(-0, 269.236809, 228.4107)">Tc/Tl machineries</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="221.400013" y="241.228537" transform="rotate(-0, 221.400013, 241.228537)">Tc/Tl machineries</text>
    </g>
    <g id="text_9">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="247.492805" y="190.955802" transform="rotate(-0, 247.492805, 190.955802)">16.7%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="221.400007" y="197.94735" transform="rotate(-0, 221.400007, 197.94735)">16.7%</text>
    </g>
    <g id="text_10">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="313.813604" y="170.317075" transform="rotate(-0, 313.813604, 170.317075)">Membrane components</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="304.255776" y="193.391723" transform="rotate(-0, 304.255776, 193.391723)">Membrane components</text>
    </g>
    <g id="text_11">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="271.807421" y="159.26837" transform="rotate(-0, 271.807421, 159.26837)">8.3%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="266.59406" y="171.854542" transform="rotate(-0, 266.59406, 171.854542)">16.7%</text>
    </g>
   </g>
  </g>
