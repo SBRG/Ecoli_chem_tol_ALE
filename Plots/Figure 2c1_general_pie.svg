@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-08-25T14:57:19.910438</dc:date>
+    <dc:date>2022-09-12T12:20:35.308911</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -48,73 +48,58 @@ z
    </g>
    <g id="patch_3">
     <path d="M 186.462145 63.629696 
-C 175.448277 68.460826 165.555245 75.524314 157.409681 84.372754 
-C 149.264117 93.221194 143.041713 103.663734 139.136601 115.038935 
-C 135.231489 126.414136 133.727898 138.476647 134.721067 150.462418 
-C 135.714236 162.44819 139.182743 174.098701 144.90689 184.675999 
+C 173.225072 69.436014 161.641877 78.451574 152.76372 89.858228 
+C 143.885563 101.264883 137.98938 114.706822 135.610241 128.964211 
+C 133.231102 143.221599 134.443219 157.849705 139.136596 171.52105 
+C 143.829972 185.192394 151.858206 197.480525 162.492748 207.270314 
 L 221.4 143.28 
 L 186.462145 63.629696 
 z
 " style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 144.90689 184.675999 
-C 150.631038 195.253297 158.487361 204.529241 167.978235 211.916285 
-C 177.469109 219.303328 188.389824 224.642141 200.048655 227.594558 
-C 211.707486 230.546975 223.852963 231.049315 235.715781 229.06976 
-C 247.5786 227.090206 258.902891 222.671453 268.971366 216.09339 
+    <path d="M 162.492748 207.270314 
+C 171.341187 215.415878 181.783726 221.638283 193.158927 225.543396 
+C 204.534128 229.44851 216.596639 230.952102 228.58241 229.958934 
+C 240.568182 228.965766 252.218693 225.49726 262.795992 219.773114 
+C 273.373291 214.048967 282.649235 206.192645 290.03628 196.701772 
 L 221.4 143.28 
-L 144.90689 184.675999 
+L 162.492748 207.270314 
 z
 " style="fill: #2ca02c; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 268.971366 216.09339 
-C 277.015924 210.837617 284.134152 204.284826 290.036287 196.701762 
-C 295.938422 189.118698 300.543277 180.60967 303.663402 171.521057 
+    <path d="M 290.03628 196.701772 
+C 295.938416 189.118708 300.543272 180.609682 303.663398 171.521069 
+C 306.783523 162.432456 308.375999 152.889278 308.376 143.280008 
 L 221.4 143.28 
-L 268.971366 216.09339 
+L 290.03628 196.701772 
 z
 " style="fill: #d62728; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
-   <g id="patch_6">
-    <path d="M 303.663402 171.521057 
-C 305.220812 166.984475 306.400289 162.326826 307.189761 157.595775 
-C 307.979234 152.864724 308.376 148.076464 308.376 143.279996 
-L 221.4 143.28 
-L 303.663402 171.521057 
-z
-" style="fill: #9467bd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
-   </g>
    <g id="text_2">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="273.728502" y="65.460209" transform="rotate(-0, 273.728502, 65.460209)">Transport</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="273.728502" y="65.460209" transform="rotate(-0, 273.728502, 65.460209)">Tc/Tl machineries</text>
    </g>
    <g id="text_3">
     <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="249.94282" y="102.073716" transform="rotate(-0, 249.94282, 102.073716)">31.6%</text>
    </g>
    <g id="text_4">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="130.910261" y="114.489766" transform="rotate(-0, 130.910261, 114.489766)">Tc/Tl machineries</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="127.031265" y="129.807569" transform="rotate(-0, 127.031265, 129.807569)">Transport</text>
    </g>
    <g id="text_5">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="172.041961" y="128.817111" transform="rotate(-0, 172.041961, 128.817111)">26.3%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="169.926145" y="137.172276" transform="rotate(-0, 169.926145, 137.172276)">31.6%</text>
    </g>
    <g id="text_6">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="197.913521" y="238.303014" transform="rotate(-0, 197.913521, 238.303014)">Stress signaling</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="229.300651" y="240.903827" transform="rotate(-0, 229.300651, 240.903827)">Stress signaling</text>
    </g>
    <g id="text_7">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="208.589193" y="196.350485" transform="rotate(-0, 208.589193, 196.350485)">26.3%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="225.709446" y="197.76911" transform="rotate(-0, 225.709446, 197.76911)">26.3%</text>
    </g>
    <g id="text_8">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="296.899916" y="204.318876" transform="rotate(-0, 296.899916, 204.318876)">Membrane components</text>
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="311.889737" y="176.620113" transform="rotate(-0, 311.889737, 176.620113)">Membrane components</text>
    </g>
    <g id="text_9">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="262.581772" y="177.814807" transform="rotate(-0, 262.581772, 177.814807)">10.5%</text>
-   </g>
-   <g id="text_10">
-    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="315.768738" y="161.30229" transform="rotate(-0, 315.768738, 161.30229)">Metabolism</text>
-   </g>
-   <g id="text_11">
-    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="272.873857" y="154.351215" transform="rotate(-0, 272.873857, 154.351215)">5.3%</text>
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="270.758039" y="162.706391" transform="rotate(-0, 270.758039, 162.706391)">10.5%</text>
    </g>
   </g>
  </g>
