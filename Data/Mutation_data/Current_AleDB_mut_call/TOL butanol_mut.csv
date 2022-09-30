@@ -1,0 +1,45 @@
+Reference Seq,Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Mut ID,Details,TOL n-butanol A1 F50 I1 R1,TOL n-butanol A1 F50 I2 R1,TOL n-butanol A1 F50 I3 R1,TOL n-butanol A2 F50 I1 R1,TOL n-butanol A3 F50 I1 R1,TOL n-butanol A3 F50 I2 R1,TOL n-butanol A3 F50 I3 R1,TOL n-butanol A4 F50 I1 R1,TOL n-butanol A4 F50 I2 R1,TOL n-butanol A4 F50 I3 R1,TOL n-butanol A5 F50 I1 R1,TOL n-butanol A5 F50 I2 R1,TOL n-butanol A6 F50 I1 R1,TOL n-butanol A6 F50 I2 R1,TOL n-butanol A6 F50 I3 R1,TOL n-butanol A7 F50 I1 R1,TOL n-butanol A7 F50 I2 R1,TOL n-butanol A7 F50 I3 R1,TOL n-butanol A8 F50 I1 R1,TOL n-butanol A8 F50 I2 R1
+NC_000913,"226,262",SNP,A→T,rrlH,(enzyme; Surface polysaccharides and antigens),(23S ribosomal RNA of rrnH operon),(),(GO:0005737 - cytoplasm),70316,noncoding (504/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"226,278",SNP,G→A,rrlH,(enzyme; Surface polysaccharides and antigens),(23S ribosomal RNA of rrnH operon),(),(GO:0005737 - cytoplasm),70319,noncoding (520/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"226,280",SNP,A→G,rrlH,(enzyme; Surface polysaccharides and antigens),(23S ribosomal RNA of rrnH operon),(),(GO:0005737 - cytoplasm),70320,noncoding (522/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"1,606,886",DEL,"Δ11,558 bp","[lsrF], lsrG, tam, yneE, uxaB, yneF, yneG, glsB, sad, yneJ, yneK, ydeA, [marC]",,,,,185001,,,,,,,,,,,,,,1.00,1.00,1.00,,,,,
+NC_000913,"3,815,810",DEL,Δ1 bp,"pyrE, rph",,,,,47914,intergenic (‑42/+24),1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"4,635,243",SNP,G→T,rob,,,,,185003,S23* (TCG→TAG) ,,,,,,,,,,,,,1.00,1.00,1.00,,,,,
+NC_000913,"226,248",SNP,C→A,rrlH,,,,,185004,noncoding (490/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"226,301",SNP,G→A,rrlH,,,,,185005,noncoding (543/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"226,305",DEL,Δ1 bp,rrlH,,,,,185006,noncoding (547/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"226,307",SUB,4 bp→TTAG,rrlH,,,,,185007,noncoding (549‑552/2904 nt),,,,,,,,1.00,,,,,,,1.00,,,,,
+NC_000913,"1,618,379",INS,+C,marC,,,,,185008,coding (530/666 nt),,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913,"4,119,238",DEL,Δ18 bp,rraA,,,,,185009,coding (76‑93/486 nt),,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913,"4,635,048",SNP,A→C,rob,,,,,185010,F88C (TTT→TGT) ,,,,,,,,,,,,,,,,,,,1.00,1.00
+NC_000913,"1,673,883",MOB,IS5 (–) +4 bp,"mdtJ, tqsA",,,,,185011,intergenic (‑382/‑27),1.00,1.00,,,,1.00,1.00,,,,,,,,,,,,,
+NC_000913,"1,907,330",DEL,Δ2 bp,cspC,,,,,185012,coding (105‑106/210 nt),1.00,1.00,,,,,,,,,,,,,,,,,,
+NC_000913,"3,895,843",SNP,A→C,adeP,,,,,185013,V256G (GTG→GGG) ,1.00,,,,,,,,,,,,,,,,,,,
+NC_000913,"4,635,114",SNP,A→C,rob,,,,,185014,L66R (CTA→CGA) ,1.00,1.00,,,,,,,,,,,,,,,,,,
+NC_000913,"1,392,752",DEL,"Δ3,292 bp","[pgrR], mppA, ynaI",,,,,185015,IS5‑mediated,,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+NC_000913,"1,907,611",MOB,IS5 (+) +4 bp,"yobF, yebO",,,,,185016,intergenic (‑20/+647),,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+NC_000913,"4,635,203",SNP,C→T,rob,,,,,185017,W36* (TGG→TGA) ,,,,,,,,,,,,,,,,1.00,1.00,1.00,,
+NC_000913,"1,618,666",MOB,IS2 (+) +5 bp,marC,,,,,185018,coding (239‑243/666 nt),,,,,,,,1.00,1.00,1.00,,1.00,,,,,,,,
+NC_000913,"1,907,343",MOB,IS1 (–) +8 bp,cspC,,,,,185019,coding (86‑93/210 nt),,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+NC_000913,"226,354",SNP,T→A,rrlH,(enzyme; Surface polysaccharides and antigens),(23S ribosomal RNA of rrnH operon),(),(GO:0005737 - cytoplasm),70332,noncoding (596/2904 nt),,,,,,,,,,,,,1.00,,,,,,,
+NC_000913,"4,635,159",SNP,C→T,rob,,,,,185021,G51D (GGC→GAC) ,,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+NC_000913,"1,981,720",SNP,G→A,otsB,,,,,185022,A223V (GCA→GTA) ,,,,,,,,,,,,,,,,,,,,1.00
+NC_000913,"1,618,281",DEL,Δ1 bp,marC,,,,,185023,coding (628/666 nt),,,,,1.00,1.00,1.00,,,,,,,,,,,,,
+NC_000913,"4,362,600",INS,+C,pheU,,,,,185024,noncoding (27/76 nt),,,,,,1.00,1.00,,,,,,,,,,,,,
+NC_000913,"1,356,672",SNP,A→G,sapA,,,,,185025,Y147H (TAC→CAC) ,,,,,,,,,1.00,,,,,,,,,,,
+NC_000913,"82,594",SNP,T→G,leuA,,,,,185026,E312D (GAA→GAC) ,,,,,1.00,,,,,,,,,,,,,,,
+NC_000913,"949,006",SNP,T→G,ycaN,,,,,185027,N188T (AAT→ACT) ,,,1.00,,,,,,,,,,,,,,,,,
+NC_000913,"1,674,448",SNP,C→A,tqsA,,,,,185028,P179Q (CCG→CAG) ,,,1.00,,,,,,,,,,,,,,,,,
+NC_000913,"4,635,196",INS,+G,rob,,,,,185029,coding (115/870 nt),,,1.00,,,,,,,,,,,,,,,,,
+NC_000913,"1,394,081",DEL,Δ2 bp,mppA,,,,,185030,coding (855‑856/1614 nt),,,,,,,,,,,1.00,,,,,,,,,
+NC_000913,"1,618,850",MOB,IS5 (–) +4 bp,marC,,,,,185031,coding (56‑59/666 nt),,,,,,,,,,,1.00,,,,,,,,,
+NC_000913,"1,618,698",SNP,T→A,marC,,,,,185033,I71F (ATT→TTT) ,,,,1.00,,,,,,,,,,,,,,,,
+NC_000913,"4,400,407",SNP,T→G,hfq,,,,,185034,D40E (GAT→GAG) ,,,,1.00,,,,,,,,,,,,,,,,
+NC_000913,"4,634,895",INS,+A,rob,,,,,185035,coding (416/870 nt),,,,1.00,,,,,,,,,,,,,,,,
+NC_000913,"226,309",SUB,2 bp→AG,rrlH,,,,,185038,noncoding (551‑552/2904 nt),,,,,,,,,,,,,1.00,,,,,,,
+NC_000913,"1,907,448",MOB,IS5 (–) +4 bp,yobF,(phenotype; Not classified),(DUF2527 family heat-induced protein),(),(GO:0005737 - cytoplasm),26323,coding (141‑144/144 nt),,,1.00,,1.00,1.00,1.00,,,,,,1.00,1.00,1.00,,,,,
+NC_000913,"226,299",SNP,A→C,rrlH,(enzyme; Surface polysaccharides and antigens),(23S ribosomal RNA of rrnH operon),(),(GO:0005737 - cytoplasm),70324,noncoding (541/2904 nt),,,,,,,,,,,,,,,1.00,,,,,
+NC_000913,"3,915,089",SNP,G→T,glmU,,,,,185020,H38N (CAT→AAT) ,,,,,,,,1.00,1.00,1.00,1.00,1.00,,,,,,,,
+NC_000913,"3,815,859",DEL,Δ82 bp,"[rph], [rph]",,,,,45309,,,,,1.00,,,,,,,,,,,,,,,,
+NC_000913,"1,978,503",DEL,Δ776 bp,"insB1, insA",,,,,45297,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+NC_000913,"1,903,497",SNP,T→C,manY,,,,,185002,I139T (ATC→ACC) ,1.00,1.00,1.00,,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="288pt" viewBox="0 0 432 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-09-12T15:42:18.546826</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="text_1">
+     <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="106.772" y="143.28" transform="rotate(-90, 106.772, 143.28)">function</text>
+    </g>
+   </g>
+   <g id="patch_2">
+    <path d="M 308.376 143.28 
+C 308.376 126.608081 303.582387 110.282534 294.568866 96.257223 
+C 285.555346 82.231912 272.696445 71.089611 257.531133 64.163846 
+C 242.365822 57.238081 225.524243 54.816629 209.02202 57.189291 
+C 192.519798 59.561953 177.042623 66.630143 164.442828 77.547929 
+L 221.4 143.28 
+L 308.376 143.28 
+z
+" style="fill: #1f77b4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 164.442828 77.547929 
+C 151.843033 88.465715 142.644158 102.779447 137.947137 118.776036 
+C 133.250116 134.772626 133.250118 151.787391 137.947142 167.783979 
+L 221.4 143.28 
+L 164.442828 77.547929 
+z
+" style="fill: #ff7f0e; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 137.947142 167.783979 
+C 142.644166 183.780568 151.843044 198.094298 164.442841 209.012082 
+C 177.042638 219.929865 192.519813 226.998052 209.022036 229.370711 
+L 221.4 143.28 
+L 137.947142 167.783979 
+z
+" style="fill: #2ca02c; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 209.022036 229.370711 
+C 225.524259 231.743371 242.365838 229.321915 257.531148 222.396147 
+C 272.696458 215.470379 285.555358 204.328076 294.568875 190.302763 
+L 221.4 143.28 
+L 209.022036 229.370711 
+z
+" style="fill: #d62728; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 294.568875 190.302763 
+C 299.053025 183.325287 302.516137 175.742127 304.852865 167.783956 
+C 307.189593 159.825785 308.376002 151.574125 308.376 143.279984 
+L 221.4 143.28 
+L 294.568875 190.302763 
+z
+" style="fill: #9467bd; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_2">
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="261.144247" y="58.527168" transform="rotate(-0, 261.144247, 58.527168)">Metabolism</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="243.07868" y="98.292058" transform="rotate(-0, 243.07868, 98.292058)">36.4%</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="129.601851" y="118.600577" transform="rotate(-0, 129.601851, 118.600577)">Transport</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="171.328282" y="131.059372" transform="rotate(-0, 171.328282, 131.059372)">18.2%</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: end" x="158.747125" y="217.86229" transform="rotate(-0, 158.747125, 217.86229)">Stress signaling</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="187.225704" y="185.200999" transform="rotate(-0, 187.225704, 185.200999)">18.2%</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="261.144263" y="232.582699" transform="rotate(-0, 261.144263, 232.582699)">Membrane components</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="243.078689" y="193.231438" transform="rotate(-0, 243.078689, 193.231438)">18.2%</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #262626; font: 8.8px 'sans-serif'; text-anchor: start" x="313.198152" y="172.509289" transform="rotate(-0, 313.198152, 172.509289)">Tc/Tl machineries</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #262626; font: 9.6px 'sans-serif'; text-anchor: middle" x="271.471719" y="160.464124" transform="rotate(-0, 271.471719, 160.464124)">9.1%</text>
+   </g>
+  </g>
+ </g>
+</svg>
